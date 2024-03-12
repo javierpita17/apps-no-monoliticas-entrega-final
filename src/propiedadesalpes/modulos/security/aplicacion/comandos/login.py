@@ -1,4 +1,4 @@
-from propertiesalpes.seedwork.aplicacion.comandos import Comando, ComandoHandler
+from propiedadesalpes.seedwork.aplicacion.comandos import Comando, ComandoHandler
 
 
 class Login(Comando):
