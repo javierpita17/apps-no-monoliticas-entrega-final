@@ -1,4 +1,4 @@
-# Tutorial 9 - Backend for Frontends (BFFs)
+# Entrega Final - Backend for Frontends (BFFs)
 
 Repositorio con código base para la implementación de un Backend for Frontend (BFF) usando GraphQL como lenguaje de consulta.
 
